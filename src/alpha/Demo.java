@@ -18,7 +18,8 @@ public class Demo {
    log.error("obeject is not present");
 
    log.fatal("this is fatal");
-
+        log.fatal("this is fatal1");
+        System.out.println(" redstop implementation");
 
 
     }
